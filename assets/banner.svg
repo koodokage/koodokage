@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<svg width="1500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs48">
+  <clipPath id="clip0">
+   <rect fill="#fff" height="500" id="rect41" width="1500"/>
+  </clipPath>
+  <clipPath id="clip1">
+   <rect fill="#fff" height="50" id="rect44" transform="translate(1261 188)" width="50"/>
+  </clipPath>
+  <clipPath id="spec-left">
+   <path d="m85,860c-10,1 -25,1 -28,13c-3,15 -3,32 6,45c7,11 23,9 35,9c19,-1 35,-16 40,-34c2,-8 4,-14 1,-19c-6,-10 -20,-12 -31,-13l-23,-1z" fill="#333" id="path5554"/>
+  </clipPath>
+  <clipPath id="spec-right">
+   <path d="m215,860c10,1 24,1 28,13c3,15 3,32 -6,45c-7,11 -23,9 -35,9c-19,-1 -35,-16 -40,-34c-2,-8 -4,-14 -1,-19c6,-10 20,-12 31,-13l23,-1z" fill="#333" id="path5557"/>
+  </clipPath>
+  <pattern height="1" id="pattern0" patternContentUnits="objectBoundingBox" width="1">
+   <use id="use38" transform="scale(.005)" xlink:href="#image0"/>
+  </pattern>
+  <style id="style5503" type="text/css">svg { --fur: #662900; --ear: #e4b89b; --cap-strap--large: #f00; --cap-strap--small: #900; --cap: #0d0d0d; --dots: rgba(242,242,242,0.6); --frame: #000; --shine: rgba(242,242,242,0.35); --lens: #595959; --code-one: rgba(128,230,25,0.5); --code-two: rgba(229,230,25,0.5); --code-three: rgba(230,25,128,0.5); --code-four: rgba(25,195,230,0.5); } .code-block { -webkit-animation: read 1s infinite linear; animation: read 1s infinite linear; } .code-block rect { fill: var(--code-one); } .code-block rect:nth-of-type(5) { fill: var(--code-four); } .code-block rect:nth-of-type(8), .code-block rect:nth-of-type(9) { fill: var(--code-two); } .code-block rect:nth-of-type(12) { fill: var(--code-three); } .bear__fur, .bear__outer-ear { fill: var(--fur); } .bear__inner-ear, .bear__muzzle { fill: var(--ear); } .bear__cap-strap { fill: var(--cap-strap--large); } .bear__small-cap-strap { fill: var(--cap-strap--small); } .bear__cap { fill: var(--cap); } .lens { fill: var(--lens); } .lens__shine { fill: var(--shine); } .shades-dot { fill: var(--dots); } .bear__nose, .shades-frame { fill: var(--frame); } @-webkit-keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } } @keyframes read { to { -webkit-transform: translate(0, -283.5px); transform: translate(0, -283.5px); } }</style>
+  <g class="code-block" id="code-block">
+   <rect height="7.5" id="rect5505" width="74" x="60" y="862"/>
+   <rect height="7.5" id="rect5507" width="28" x="96" y="874"/>
+   <rect height="7.5" id="rect5509" width="54" x="60" y="886"/>
+   <rect height="7.5" id="rect5511" width="74" x="60" y="897"/>
+   <rect height="7.5" id="rect5513" width="56" x="78" y="909"/>
+   <rect height="7.5" id="rect5515" width="51" x="83" y="921"/>
+   <rect height="7.5" id="rect5517" width="51" x="73" y="932"/>
+   <rect height="7.5" id="rect5519" width="62" x="72" y="944"/>
+   <rect height="7.5" id="rect5521" width="74" x="60" y="956"/>
+   <rect height="7.5" id="rect5523" width="84" x="50" y="967"/>
+   <rect height="7.5" id="rect5525" width="64" x="60" y="979"/>
+   <rect height="7.5" id="rect5527" width="74" x="60" y="991"/>
+   <rect height="7.5" id="rect5529" width="41" x="93" y="1003"/>
+   <rect height="7.5" id="rect5531" width="58" x="66" y="1014"/>
+   <rect height="7.5" id="rect5533" width="58" x="56" y="1026"/>
+   <rect height="7.5" id="rect5535" width="74" x="50" y="1038"/>
+   <rect height="7.5" id="rect5537" width="46" x="88" y="1049"/>
+   <rect height="7.5" id="rect5539" width="19" x="105" y="1061"/>
+   <rect height="7.5" id="rect5541" width="38" x="96" y="1073"/>
+   <rect height="7.5" id="rect5543" width="51" x="73" y="1084"/>
+   <rect height="7.5" id="rect5545" width="26" x="88" y="1096"/>
+   <rect height="7.5" id="rect5547" width="56" x="68" y="1108"/>
+   <rect height="7.5" id="rect5549" width="24" x="100" y="1120"/>
+   <rect height="7.5" id="rect5551" width="74" x="50" y="1131"/>
+  </g>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#clip0)" id="svg_1">
+   <rect fill="#1E1E1E" height="500" id="svg_2" transform="matrix(1 0 0 1 0 0)" width="1500" x="1" y="0"/>
+   <rect fill="#1E1E1E" height="500" id="svg_3" width="1500" x="-391" y="-1"/>
+   <rect fill="#ff9000" height="759.9" id="svg_4" transform="matrix(0.798636 -0.601815 0.601815 0.798636 -316.739 297.368)" width="1614.3" x="-309.23" y="-158.35"/>
+   <circle cx="750" cy="225" fill="#fff" id="svg_5" r="183"/>
+   <g id="svg_18" transform="translate(549 -975) scale(1.34105 1.34105)">
+    <path class="bear__fur" d="m243,894c0,61 -36,106 -94,106c-55,0 -92,-45 -92,-106s38,-86 91,-86s95,25 95,86z" id="svg_19"/>
+    <path class="bear__muzzle" d="m212,958c0,20 -29,39 -63,39c-35,0 -61,-19 -61,-39s26,-33 61,-33s63,13 63,33z" id="svg_20"/>
+    <path class="bear__nose" d="m181,932c0,7 -19,24 -30,24s-32,-17 -32,-24c0,-8 20,-13 31,-13c12,0 31,5 31,13z" id="svg_21"/>
+    <ellipse class="bear__outer-ear" cx="68.3" cy="827.7" id="svg_22" rx="23.8" ry="23.1"/>
+    <path class="bear__inner-ear" d="m85,826a17,16 0 0 0 -17,-14a17,16 0 0 0 -16,16a17,16 0 0 0 16,16a17,16 0 0 0 1,0l3,-4a66,66 0 0 1 11,-12l2,-2z" id="svg_23"/>
+    <ellipse class="bear__outer-ear" cx="-231.95" cy="827.7" id="svg_24" rx="23.8" ry="23.1" transform="translate(-0.745684 0) scale(-1 1)"/>
+    <path class="bear__inner-ear" d="m215,826a17,16 0 0 1 16,-14a17,16 0 0 1 17,16a17,16 0 0 1 -17,16a17,16 0 0 1 -1,0l-2,-4a66,66 0 0 0 -11,-12l-2,-2z" id="svg_25"/>
+    <path class="bear__cap-strap" d="m148,815c-14,0 -26,1 -38,4l0,11a199,199 0 0 1 80,1l0,-11c-13,-3 -27,-5 -42,-5z" id="svg_26"/>
+    <path class="bear__small-cap-strap" d="m165,816a16,8 0 0 1 5,5a16,8 0 0 1 -6,6l26,4l0,-11l-25,-4z" id="svg_27"/>
+    <path class="bear__cap" d="m148,789c-43,0 -76,20 -83,64c12,-11 28,-19 45,-23c0,0 -2,-12 10,-16c15,-4 19,-4 28,-4c10,0 15,0 30,4s12,17 12,17c18,5 32,11 45,22c-8,-46 -43,-64 -87,-64z" id="svg_28"/>
+    <circle class="bear__eye" cx="97.2" cy="894.1" id="svg_29" r="11.2"/>
+    <circle class="bear__eye" cx="201.9" cy="894.1" id="svg_30" r="11.2"/>
+    <path class="bear__eyebrows" d="m97,864a21,21 0 0 1 -7,16a21,21 0 0 1 -16,5m130,-21a21,21 0 0 0 6,16a21,21 0 0 0 16,5" fill="none" id="svg_31" stroke="#e9afaf" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path class="shades-frame" d="m77,855c-6,0 -13,0 -23,2l-14,3l2,15l7,2c3,5 1,10 2,18c3,28 12,34 26,35c8,1 23,3 33,-1s19,-10 25,-18c6,-9 6,-18 10,-26c3,-5 8,-4 10,0c3,8 4,17 10,26c6,8 15,14 24,18c11,4 26,2 34,1c14,-1 23,-7 26,-35c1,-8 -2,-13 2,-18l7,-2l2,-15l-15,-3c-15,-3 -23,-2 -34,-2l-13,0l-25,4c-8,2 -15,7 -23,6c-8,0 -15,-5 -23,-6l-25,-4l-25,0z" id="svg_32"/>
+    <path class="lens" d="m85,860c-10,1 -25,1 -28,13c-3,15 -3,32 6,45c7,11 23,9 35,9c19,-1 35,-16 40,-34c2,-8 4,-14 1,-19c-6,-10 -20,-12 -31,-13l-23,-1z" fill="#333333" id="svg_33"/>
+    <path class="shades-dot" d="m56,864a4,2 0 0 1 -4,2a4,2 0 0 1 -4,-2a4,2 0 0 1 4,-1a4,2 0 0 1 4,1" id="svg_34"/>
+    <path class="lens" d="m215,860c10,1 24,1 28,13c3,15 3,32 -6,45c-7,11 -23,9 -35,9c-19,-1 -35,-16 -40,-34c-2,-8 -4,-14 -1,-19c6,-10 20,-12 31,-13l23,-1z" fill="#333333" id="svg_35"/>
+    <path class="shades-dot" d="m244,864a4,2 0 0 0 4,2a4,2 0 0 0 4,-2a4,2 0 0 0 -4,-1a4,2 0 0 0 -4,1" id="svg_36"/>
+    <g clip-path="url(#spec-left)" id="svg_37">
+     <use height="100%" id="svg_38" width="100%" x="0" xlink:href="#code-block" y="0"/>
+     <use height="100%" id="svg_39" width="100%" x="0" xlink:href="#code-block" y="284"/>
+    </g>
+    <g clip-path="url(#spec-right)" id="svg_40">
+     <use height="100%" id="svg_41" transform="translate(104 0)" width="100%" x="0" xlink:href="#code-block" y="0"/>
+     <use height="100%" id="svg_42" transform="translate(104 0)" width="100%" x="0" xlink:href="#code-block" y="284"/>
+    </g>
+    <path class="lens__shine" d="m101,861l-19,66l17,0l18,-65l-16,-1zm-12,-1l-4,0l-3,1l-18,59l6,5l19,-65z" id="svg_43"/>
+   </g>
+  </g>
+ </g>
+</svg>
