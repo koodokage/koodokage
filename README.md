@@ -4,4 +4,4 @@
 I'm Ali.
 </p>
 
-<h1 align='center'><i>Develop Programs That Will Make Life Easier</i></h1>
+<h1 align='center'><i>CODING...</i></h1>
