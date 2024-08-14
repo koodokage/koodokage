@@ -1,4 +1,4 @@
-![](https://github.com/koodokage/koodokage/raw/main/assets/banner-header.svg)
+![](https://github.com/koodokage/koodokage/raw/main/assets/banner-header.svg)[](http://aliatmaca.space)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Ali.
