@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/koodokage/koodokage/raw/master/assets/header-banner.svg)](https://aliatmaca.space)
+[![Social banner for jh3y](https://github.com/koodokage/koodokage/raw/master/assets/banner-header.svg)](https://aliatmaca.space)
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Ali.
