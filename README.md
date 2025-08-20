@@ -1,4 +1,4 @@
-[![](https://github.com/koodokage/koodokage/raw/main/assets/banner-header.svg)](http://aliatmaca.space)
+[![](https://tenor.com/en-GB/view/samurai-jack-sword-katana-swinging-slice-gif-4574872)](http://aliatmaca.space)
 <h2 align='center'><i>Self-Taught Game Developer</i> 🎮</h2> 
 <h4 align="center">Love To Work With</h4>
 <p align="center">
