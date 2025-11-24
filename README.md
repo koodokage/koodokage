@@ -1,4 +1,3 @@
-[![](https://github.com/koodokage/koodokage/raw/main/assets/samurai-jack-sword.svg)](http://aliatmaca.space)
 <h2 align='center'><i>Self-Taught Game Developer</i> 🎮</h2> 
 <h4 align="center">Love To Work With</h4>
 <p align="center">
